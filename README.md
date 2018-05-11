@@ -1,3 +1,6 @@
+
+![](https://github.com/SeeedDocument/Google-Assitant/raw/master/img/Front.jpg)
+
 # Google Assitant
 
 This wiki is for ReSpeaker Core v2.0, we recommend you to read the [Wiki of ReSpeaker Core v2.0](http://wiki.seeedstudio.com/ReSpeaker_Core_v2.0/#preparation) first.
@@ -240,7 +243,7 @@ Remember the two IDs we marked before? Now it's time to use them.
 Change the command `googlesamples-assistant-respeakerd --project-id my-dev-project --device-model-id my-model` with your own IDs.
 
 
-For the command above,Change `my-dev-project` into your `project-id` and change `my-model` into your `Model ID`.
+For the command above, change `my-dev-project` into your `project-id` and change `my-model` into your `Model ID`.
 
 For this demo, it should be like
 
