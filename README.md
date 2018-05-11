@@ -233,18 +233,12 @@ sudo pip install -U googleassistant_respeakerd
 ```
 
 
-#### Final Step
+#### Final Step to Activate the Google Assistant.
 
-Just one last command.
+Remember the two IDs we marked before? Now it's time to use them. 
 
-```
-googlesamples-assistant-respeakerd --project-id my-dev-project --device-model-id my-model
+Change the command `googlesamples-assistant-respeakerd --project-id my-dev-project --device-model-id my-model` with your own IDs.
 
-```
-
-Error?
-
-Wait a second. Remember the two IDs we marked before? Now it's time to use them.
 
 For the command above,Change `my-dev-project` into your `project-id` and change `my-model` into your `Model ID`.
 
@@ -255,5 +249,6 @@ googlesamples-assistant-respeakerd --project-id respeaker-440eb --device-model-i
 ```
 
 Now, cheers!!!
+
 
 ![](https://github.com/SeeedDocument/Google-Assitant/raw/master/img/codel.png)
